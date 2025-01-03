@@ -1,0 +1,19 @@
+{
+  "NavbarLinks": {
+    "home": "ቤት",
+    "homeTitle": "የቤት ገፅ",
+    "about": "ስለ",
+    "aboutTitle": "ስለ ገፅ",
+    "profile": "መገለጫ",
+    "profileTitle": "የመገለጫ ገፅ"
+  },
+  "HomePage": {
+    "title": "መጀመሪያ ገፅ"
+  },
+  "AboutPage": {
+    "title": "ስለ"
+  },
+  "ProfilePage": {
+    "title": "መገለጫ"
+  }
+}

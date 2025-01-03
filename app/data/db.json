@@ -1,0 +1,144 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "title": "Introduction to Programming",
+      "description": "Learn the basics of programming using Python.",
+      "duration": "4 weeks",
+      "level": "Beginner"
+    },
+    {
+      "id": 2,
+      "title": "Web Development",
+      "description": "Learn how to build websites using HTML, CSS, and JavaScript.",
+      "duration": "6 weeks",
+      "level": "Intermediate"
+    },
+    {
+      "id": 3,
+      "title": "Advanced JavaScript",
+      "description": "Master JavaScript for building complex applications.",
+      "duration": "8 weeks",
+      "level": "Advanced"
+    },
+    {
+      "id": 4,
+      "title": "Data Structures and Algorithms",
+      "description": "Understand the core concepts of data structures and algorithms with examples.",
+      "duration": "5 weeks",
+      "level": "Intermediate"
+    },
+    {
+      "id": 5,
+      "title": "Mobile App Development",
+      "description": "Learn how to build mobile applications using React Native.",
+      "duration": "7 weeks",
+      "level": "Intermediate"
+    },
+    {
+      "id": 6,
+      "title": "Machine Learning Basics",
+      "description": "An introduction to machine learning concepts, algorithms, and applications.",
+      "duration": "6 weeks",
+      "level": "Intermediate"
+    },
+    {
+      "id": 7,
+      "title": "Web Scraping with Python",
+      "description": "Learn how to scrape data from websites using Python and BeautifulSoup.",
+      "duration": "3 weeks",
+      "level": "Beginner"
+    },
+    {
+      "id": 8,
+      "title": "Cloud Computing with AWS",
+      "description": "Explore the basics of cloud computing using Amazon Web Services (AWS).",
+      "duration": "5 weeks",
+      "level": "Beginner"
+    },
+    {
+      "id": 9,
+      "title": "DevOps Essentials",
+      "description": "Learn the principles of DevOps, CI/CD pipelines, and infrastructure as code.",
+      "duration": "6 weeks",
+      "level": "Advanced"
+    },
+    {
+      "id": 10,
+      "title": "Database Management with SQL",
+      "description": "Learn how to design, query, and manage databases using SQL.",
+      "duration": "4 weeks",
+      "level": "Beginner"
+    },
+    {
+      "id": 11,
+      "title": "Introduction to React",
+      "description": "Learn the basics of React, including JSX, components, and state management.",
+      "duration": "4 weeks",
+      "level": "Beginner"
+    },
+    {
+      "id": 12,
+      "title": "Advanced Python",
+      "description": "Master advanced Python concepts, including decorators, generators, and file I/O.",
+      "duration": "6 weeks",
+      "level": "Advanced"
+    },
+    {
+      "id": 13,
+      "title": "Angular Crash Course",
+      "description": "Learn the fundamentals of Angular, including components, services, and directives.",
+      "duration": "5 weeks",
+      "level": "Intermediate"
+    },
+    {
+      "id": 14,
+      "title": "Introduction to Java",
+      "description": "Learn the basics of Java programming, object-oriented principles, and basic syntax.",
+      "duration": "5 weeks",
+      "level": "Beginner"
+    },
+    {
+      "id": 15,
+      "title": "Full-Stack Web Development",
+      "description": "Learn how to build full-stack web applications with React, Node.js, and MongoDB.",
+      "duration": "10 weeks",
+      "level": "Advanced"
+    },
+    {
+      "id": 16,
+      "title": "Cybersecurity Fundamentals",
+      "description": "Learn the basics of cybersecurity, including encryption, network security, and ethical hacking.",
+      "duration": "6 weeks",
+      "level": "Intermediate"
+    },
+    {
+      "id": 17,
+      "title": "Introduction to Blockchain",
+      "description": "Learn about blockchain technology, cryptocurrencies, and how to build decentralized apps.",
+      "duration": "8 weeks",
+      "level": "Advanced"
+    },
+    {
+      "id": 18,
+      "title": "Game Development with Unity",
+      "description": "Learn how to develop 2D and 3D games using Unity game engine and C#.",
+      "duration": "10 weeks",
+      "level": "Intermediate"
+    },
+    {
+      "id": 19,
+      "title": "Swift Programming for iOS",
+      "description": "Learn how to build iOS applications using Swift and the Xcode IDE.",
+      "duration": "6 weeks",
+      "level": "Intermediate"
+    },
+    {
+      "id": 20,
+      "title": "Big Data with Hadoop and Spark",
+      "description": "Learn how to handle large datasets using Hadoop and Apache Spark.",
+      "duration": "7 weeks",
+      "level": "Advanced"
+    }
+  ]
+}
